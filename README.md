@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ben-baldwin&label=Profile%20views&color=0e75b6&style=flat" alt="ben-baldwin" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.benb.tech](www.benb.tech)
-
 - 📫 How to reach me **baldwin.ben55@gmail.com**
 
 - ⚡ Fun fact **I'm a longtime drummer who listens to all sorts of music!**
